@@ -1,1 +1,0 @@
-# HumHub android application 

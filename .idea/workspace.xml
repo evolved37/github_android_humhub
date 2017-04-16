@@ -45,23 +45,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/becode/humhub/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="179" column="62" selection-start-line="179" selection-start-column="62" selection-end-line="179" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6366#6396#0" expanded="true" />
+                <element signature="e#7106#7138#0" expanded="true" />
+                <element signature="e#7884#7922#0" expanded="true" />
+                <element signature="e#8842#8872#0" expanded="true" />
+                <element signature="e#9597#9629#0" expanded="true" />
+                <element signature="e#10375#10413#0" expanded="true" />
+                <marker date="1492358010767" expanded="false" signature="2810:2838" ph="&quot;Hum Hub&quot;" />
+                <marker date="1492358010767" expanded="false" signature="2875:2905" ph="&quot;Hello, look what a beautiful app that I found here:&quot;" />
+                <marker date="1492358010767" expanded="false" signature="2948:2978" ph="&quot;https://www.humhub.org&quot;" />
+                <marker date="1492358010767" expanded="false" signature="5125:5220" ph="(view) → {" />
+                <marker date="1492358010767" expanded="false" signature="5457:5472" ph="}" />
+                <marker date="1492358010767" expanded="false" signature="12800:12843" ph="&quot;ca-app-pub-4749346084032970/6631537051&quot;" />
+                <marker date="1492358010767" expanded="false" signature="13044:13101" ph="onAdLoaded() → {" />
+                <marker date="1492358010767" expanded="false" signature="13244:13339" ph="() → {" />
+                <marker date="1492358010767" expanded="false" signature="13382:13492" ph="() → {" />
+                <marker date="1492358010767" expanded="false" signature="13580:13615" ph="}" />
+                <marker date="1492358010767" expanded="false" signature="13638:13665" ph="}" />
+                <marker date="1492358010767" expanded="false" signature="13684:13727" ph="&quot;20000&quot;" />
+                <marker date="1492358010767" expanded="false" signature="13757:13772" ph="}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bottombar_tabs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/bottombar_tabs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -1729,7 +1773,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../cloud-caller-android" value="5696529188000" />
-        <entry key="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub" value="4428236188382" />
+        <entry key="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub" value="4428245771758" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1912,7 +1956,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/xml/bottombar_tabs.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/digitalborder/webappessentials/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/assets/error.html" />
@@ -1921,11 +1964,14 @@
         <option value="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/becode/humhub/FragmentContacts.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-de/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/becode/humhub/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1096" />
+    <option name="x" value="389" />
+    <option name="y" value="57" />
     <option name="width" value="2345" />
     <option name="height" value="1407" />
   </component>
@@ -2051,6 +2097,38 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android_hum_hub" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android_hum_hub" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="humhub" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2458,7 +2536,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1096" y="0" width="2345" height="1407" extended-state="0" />
+    <frame x="389" y="57" width="2345" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2468,7 +2546,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34747797" sideWeight="0.5203501" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19114219" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19080962" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298639" sideWeight="0.495338" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2632,56 +2710,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/becode/humhub/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5879#5908#0" expanded="true" />
-            <element signature="e#5957#5985#0" expanded="true" />
-            <element signature="e#6540#6571#0" expanded="true" />
-            <element signature="e#6622#6652#0" expanded="true" />
-            <element signature="e#7222#7259#0" expanded="true" />
-            <element signature="e#7310#7346#0" expanded="true" />
-            <element signature="e#8160#8189#0" expanded="true" />
-            <element signature="e#8238#8266#0" expanded="true" />
-            <element signature="e#8835#8866#0" expanded="true" />
-            <element signature="e#8917#8947#0" expanded="true" />
-            <element signature="e#9517#9554#0" expanded="true" />
-            <element signature="e#9605#9641#0" expanded="true" />
-            <marker date="1492347246548" expanded="false" signature="2810:2838" ph="&quot;Hum Hub&quot;" />
-            <marker date="1492347246548" expanded="false" signature="2875:2905" ph="&quot;Hello, look what a beautiful app that I found here:&quot;" />
-            <marker date="1492347246548" expanded="false" signature="2948:2978" ph="&quot;https://www.humhub.org&quot;" />
-            <marker date="1492347246548" expanded="false" signature="5125:5220" ph="(view) → {" />
-            <marker date="1492347246548" expanded="false" signature="5457:5472" ph="}" />
-            <marker date="1492347246548" expanded="false" signature="12409:12452" ph="&quot;ca-app-pub-4749346084032970/6631537051&quot;" />
-            <marker date="1492347246548" expanded="false" signature="12653:12710" ph="onAdLoaded() → {" />
-            <marker date="1492347246548" expanded="false" signature="12853:12948" ph="() → {" />
-            <marker date="1492347246548" expanded="false" signature="12991:13101" ph="() → {" />
-            <marker date="1492347246548" expanded="false" signature="13189:13224" ph="}" />
-            <marker date="1492347246548" expanded="false" signature="13247:13274" ph="}" />
-            <marker date="1492347246548" expanded="false" signature="13293:13336" ph="&quot;20000&quot;" />
-            <marker date="1492347246548" expanded="false" signature="13366:13381" ph="}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/bottombar_tabs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#225#245#0" expanded="true" />
-            <element signature="e#391#413#0" expanded="true" />
-            <element signature="e#584#612#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/becode/humhub/FragmentWebInteractive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -2779,11 +2807,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/bottombar_tabs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/becode/humhub/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="179" column="62" selection-start-line="179" selection-start-column="62" selection-end-line="179" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6366#6396#0" expanded="true" />
+            <element signature="e#7106#7138#0" expanded="true" />
+            <element signature="e#7884#7922#0" expanded="true" />
+            <element signature="e#8842#8872#0" expanded="true" />
+            <element signature="e#9597#9629#0" expanded="true" />
+            <element signature="e#10375#10413#0" expanded="true" />
+            <marker date="1492358010767" expanded="false" signature="2810:2838" ph="&quot;Hum Hub&quot;" />
+            <marker date="1492358010767" expanded="false" signature="2875:2905" ph="&quot;Hello, look what a beautiful app that I found here:&quot;" />
+            <marker date="1492358010767" expanded="false" signature="2948:2978" ph="&quot;https://www.humhub.org&quot;" />
+            <marker date="1492358010767" expanded="false" signature="5125:5220" ph="(view) → {" />
+            <marker date="1492358010767" expanded="false" signature="5457:5472" ph="}" />
+            <marker date="1492358010767" expanded="false" signature="12800:12843" ph="&quot;ca-app-pub-4749346084032970/6631537051&quot;" />
+            <marker date="1492358010767" expanded="false" signature="13044:13101" ph="onAdLoaded() → {" />
+            <marker date="1492358010767" expanded="false" signature="13244:13339" ph="() → {" />
+            <marker date="1492358010767" expanded="false" signature="13382:13492" ph="() → {" />
+            <marker date="1492358010767" expanded="false" signature="13580:13615" ph="}" />
+            <marker date="1492358010767" expanded="false" signature="13638:13665" ph="}" />
+            <marker date="1492358010767" expanded="false" signature="13684:13727" ph="&quot;20000&quot;" />
+            <marker date="1492358010767" expanded="false" signature="13757:13772" ph="}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2791,6 +2851,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>

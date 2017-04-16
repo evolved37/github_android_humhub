@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_home_h.setArguments(bar_home);
                     FragmentManager bar_home_hFragment = getSupportFragmentManager();
                     bar_home_hFragment.beginTransaction().replace(R.id.frame_container, bar_home_h, "FragmentWebInteractive").commit();
-
+                    setTitle(getString(R.string.home_label));
                     first_fragment = true;
 
                 } else if (tabId == R.id.tab_spaces) {
@@ -170,6 +170,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_spaces_s.setArguments(bar_spaces);
                     FragmentManager bar_spaces_sFragment = getSupportFragmentManager();
                     bar_spaces_sFragment.beginTransaction().replace(R.id.frame_container, bar_spaces_s, "FragmentWebInteractive").commit();
+                    setTitle(getString(R.string.spaces_label));
                     first_fragment = true;
                 } else if (tabId == R.id.tab_notification){
                     Bundle bar_notify = new Bundle();
@@ -179,6 +180,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_notification.setArguments(bar_notify);
                     FragmentManager bar_notificationFragment = getSupportFragmentManager();
                     bar_notificationFragment.beginTransaction().replace(R.id.frame_container, bar_notification, "FragmentWebInteractive").commit();
+                    setTitle(getString(R.string.notification_label));
                     first_fragment = true;
 
                 }
@@ -197,6 +199,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_home_h.setArguments(bar_home);
                     FragmentManager bar_home_hFragment = getSupportFragmentManager();
                     bar_home_hFragment.beginTransaction().replace(R.id.frame_container, bar_home_h, "FragmentWebInteractive").commit();
+                    setTitle(getString(R.string.home_label));
                     first_fragment = true;
                 }
                 else if (tabId == R.id.tab_spaces) {
@@ -207,6 +210,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_spaces_s.setArguments(bar_spaces);
                     FragmentManager bar_spaces_sFragment = getSupportFragmentManager();
                     bar_spaces_sFragment.beginTransaction().replace(R.id.frame_container, bar_spaces_s, "FragmentWebInteractive").commit();
+                    setTitle(getString(R.string.spaces_label));
                     first_fragment = true;
                 } else if (tabId == R.id.tab_notification){
                     Bundle bar_notify = new Bundle();
@@ -216,6 +220,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     bar_notification.setArguments(bar_notify);
                     FragmentManager bar_notificationFragment = getSupportFragmentManager();
                     bar_notificationFragment.beginTransaction().replace(R.id.frame_container, bar_notification, "FragmentWebInteractive").commit();
+                    setTitle(getString(R.string.notification_label));
                     first_fragment = true;
                 }
 
@@ -428,7 +433,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         } else if (id == R.id.faq) {
 
             Bundle bundle = new Bundle();
-            bundle.putInt("item_position", 2);
+            bundle.putInt("item_position", 3);
             bundle.putSerializable("item_id", R.id.faq);
             bundle.putString("type", getString(R.string.faq_type));
             bundle.putString("url", getString(R.string.faq_url));

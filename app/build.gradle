@@ -8,8 +8,8 @@ android {
         applicationId "com.becode.humhub"
         minSdkVersion 19
         targetSdkVersion 25
-        versionCode 24
-        versionName "1.0.1"
+        versionCode 25
+        versionName "1.0.5"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
