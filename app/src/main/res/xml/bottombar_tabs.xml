@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/tab_home"
+            icon="@mipmap/ic_home"
+            title="@string/home_label"
+            barColorWhenSelected="#61c2d0"/>
+        <tab
+            id="@+id/tab_spaces"
+            icon="@mipmap/ic_group"
+            title="@string/spaces_label"
+            barColorWhenSelected="#708fa0"/>
+        <tab
+            id="@+id/tab_notification"
+            icon="@mipmap/ic_notifications_black_24dp"
+            title="@string/notification_label"
+            barColorWhenSelected="#293644"/>
+    </tabs>
+</PreferenceScreen>

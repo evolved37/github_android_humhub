@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- See this page for understand colors https://developer.android.com/training/material/theme.html -->
+
+<resources>
+    <!-- Standard version -->
+    <color name="colorPrimary">#61c2d0</color>
+    <color name="colorPrimaryDark">#708fa0</color>
+    <color name="colorAccent">#61c2d0</color>
+</resources>

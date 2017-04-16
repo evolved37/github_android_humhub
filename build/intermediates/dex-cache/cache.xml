@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\84b7e6da90cd4107724674c8247f6da9b16c9f70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_5944ec02f5bc2d3702aaa568f3dc6307ce61384a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\a5f5adafc02b5d913f52a494c77da26d17be1d78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_ea1e55e0b9cbb6dff071628cf0fc809671f13f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\5e3bb5fa1578d61144e35405f18c3a353ff76c6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_d5e4c10f80141a4bba66cab3fefcd1e5c683ae8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\b5cb9ea90bd86cbd2ab6be78a65cbf8fbe85da12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_e65794512c2154e1aa45441d40f501544421a1e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\0afdfa772425621d41719d033d7839193d01d32a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_161c679f40446a8fc6c063a844a055553cb90067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\fd717aabebe044eb28dba8f3763fc5cf404da4f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_60cf32546c93a2ed73f31dd5ab1b0ae5769c9f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\bf342d09bc0a79ec5d55d05719f2223af9ef0b36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_447ce715b9f2e6d1f6a912047ea9de62d281e495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\72116162112208703779473167fcc2632dd209ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_54eaf74e89c8641c4c2f0e1cf14f61c3787352d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\b8704730baa9740169728835c9e90ab2697c7b80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_ba831f5cd2c3b0277db69de0cc031a73d99303ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\04108a809e6cbcb0c7f58d3a574ec6b7837026b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_0f440fcf78a6d15a55124733e6d8357498d6b1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\03c7d092a3ac6389d8ffae390c82964690cfa840\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_0399b5bf5e9270928e58e7a6fb4fe3723a72b4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\9b215c84e4f77d6e621659babbf52008167fb664\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b034fc34b6f13e95ccaaff6aa76819c34c6bce41">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_19ee7dd8bd990c23ce46c413c9dc167b06005a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\0470fe6f84abea2f13882cddac0adf1706c821ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_d95125134fb7f3eb1dd951a5f893aac26a24067e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3f61b798cf7968b2ec39ec2f5a26741eae67f17">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c1a64339675a323d852a807732d28dbd2b04646d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ecef8b120d96ea36cb3b9c61821ede2d1c6de34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\60ea470097a3c3afd3343a15183f81b17e91370d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_6900c8a2eda705d8be88d25796339741dd541bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\38db501f9faf0f39a229704352887e1476fa1343\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_16740bb7acc560686a6785d9a5ac1e31993ad49b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\libs\httpmime-4.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.1_806ceb839d302a2cb5be015aaaab822307b04073\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\174aec1d6ae2bb3575519d6e497da0083a0b5034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_b1949545d6fe32a3ecd7c768789993371dc5c989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\libs\httpmime-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\httpmime-4.2.1_806ceb839d302a2cb5be015aaaab822307b04073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\3d5a3b679b822e90cdf317f655998ad454a63617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_ed9576afffb3ceefcde87c5047fd090fbab0b0d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b24ffd2a56cbdf13d0ab8c36cf55ea9637e19d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\8065f99e375a01929208a50db68118d4b02967dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_f042ee6c077d01df1e2446722a36d7d8797a9364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\a253abc000ee669a3f749c1afe5ff8e5789cd7cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_84e5a939d78773f430f51bb4d68cfd4112f70de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\370abff065d602a6ef991f6ee572ba71da9453bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_f5473780578e65cdf9b058335ede460d1a64571d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\4413201fd37d83eb6fd025fa39a7432c88007f7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_044bb3d6371deb26b2421a06f1439a1f1aed1376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\b093a758ce97e8c107c6b26f5ced0bbcdf1e76b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_c2b4a7394febe38afac0b03a04be0afe4def18ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\25abe0536d823850accc8676a927ce193b8631f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_873d7768fb53a837eb1d21a09363b0237f78907b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\fedde5986ef864b97aca64797fe6c6df798c424a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_9fd78177c42ec4ebe64c54c88dd0ab4ef695dcf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\8ebf9695b4abd246f66911d2fba99bbf749bc713\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_e9fe5a8d0e6bf44d5f08693e70ccd9b7a329c3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\4ee19f0500096a64b07a1af9b793f9464924f804\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_614b3f8c18b2301609d4bbeef630b690aeb08482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\90eceb619dee6484e82c6284215692958b710818\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_c6d17bb4445c3906e6ef8dbdff317fdb68ab2f4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\6501ea5e02cf4e6248ed81075f19252726dea8b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_d0d46436dcc1463a7fa7456e0097e34984034650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Francesco\.android\build-cache\0c30b81397a0ad9e39c4dd94183e7572685c7277\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Francesco\Documents\AndroidStudio\android_hum_hub\app\build\intermediates\pre-dexed\debug\classes_f01d591f7c38f19bc47e48b55b6655f6de8e350d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/people"
+            android:icon="@mipmap/ic_group"
+            android:title="@string/people_label" />
+        <item
+            android:id="@+id/messages"
+            android:icon="@mipmap/ic_message"
+            android:title="@string/messages_label" />
+        <item
+            android:id="@+id/documentation"
+            android:icon="@mipmap/ic_new_releases"
+            android:title="@string/documentation_label" />
+        <item
+            android:id="@+id/faq"
+            android:icon="@mipmap/ic_help_black"
+            android:title="@string/faq_label" />
+
+    </group>
+
+    <item android:title="@string/second_category">
+        <menu>
+            <item
+                android:id="@+id/nav_1"
+                android:icon="@mipmap/ic_settings"
+                android:title="@string/settings_label" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@mipmap/ic_power"
+                android:title="@string/logout_label" />
+        </menu>
+    </item>
+
+
+
+
+</menu>

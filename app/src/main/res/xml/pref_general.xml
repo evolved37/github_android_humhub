@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="pref_webview_cache"
+        android:title="@string/pref_title_cache"
+        android:defaultValue="true" />
+
+    <SwitchPreference
+        android:key="pref_webview_javascript"
+        android:title="@string/pref_title_javascript"
+        android:defaultValue="true" />
+
+    <ListPreference
+        android:key="pref_webview_loader_list"
+        android:title="@string/pref_title_webview_loader"
+        android:defaultValue="dialog"
+        android:entries="@array/pref_webview_loader_titles"
+        android:entryValues="@array/pref_webview_loader_values"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null" />
+
+</PreferenceScreen>

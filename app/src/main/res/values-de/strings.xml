@@ -1,0 +1,114 @@
+<resources>
+
+    <string name="app_name">HumHub</string>
+    <string name="app_payoff">Community</string>
+
+
+    <!-- Share text and link for Share Button -->
+    <string name="share_text">Hello, look what a beautiful app that I found here: </string>
+    <string name="share_link">https://www.humhub.org</string>
+
+
+
+    <!-- ######################################### Page Configs ################################## -->
+
+    <!-- Type: "url" for web remote pages, "file" for local pages -->
+
+    <string name="home_label">Zuhause</string>
+    <string name="home_type">url</string>
+    <string name="home_url">https://community.humhub.com/dashboard</string>
+
+    <string name="people_label">Menschen</string>
+    <string name="people_type">url</string>
+    <string name="people_url">https://community.humhub.com/directory/members</string>
+
+    <string name="messages_label">Meldungen</string>
+    <string name="messages_type">url</string>
+    <string name="messages_url">https://community.humhub.com/mail/mail/index</string>
+
+    <string name="faq_label">Faq</string>
+    <string name="faq_type">url</string>
+    <string name="faq_url">https://community.humhub.com/p/1</string>
+
+    <string name="documentation_label">Dokumentation</string>
+    <string name="documentation_type">url</string>
+    <string name="documentation_url">https://community.humhub.com/p/2</string>
+
+    <string name="second_category">Optionen</string>
+    <string name="settings_label">Einstellungen</string>
+
+    <string name="logout_label">Ausloggen</string>
+    <string name="logout_type">url</string>
+    <string name="logout_url">https://community.humhub.com/user/auth/logout</string>
+
+    <!-- Search button-->
+    <string name="search_label">Suche</string>
+    <string name="search_type">url</string>
+    <string name="search_url">https://community.humhub.com/search</string>
+
+    <!-- If you want, you can customize the error page! -->
+    <string name="error_page">error.html</string>
+
+    <!--Home is connect by primary link-->
+    <string name="spaces_label">Räume</string>
+    <string name="spaces_type">url</string>
+    <string name="spaces_url">https://community.humhub.com/directory/spaces</string>
+
+    <string name="notification_label">Benachrichtigung</string>
+    <string name="notification_type">url</string>
+    <string name="notification_url">https://community.humhub.com/notification/overview</string>
+
+    <!-- ########################################## STRINGS ######################################  -->
+    <!-- String for translate -->
+    <string name="share">Aktie</string>
+
+    <string name="navigation_drawer_open">Öffnen Sie die Schublade</string>
+    <string name="navigation_drawer_close">Schliessschloss schließen</string>
+    <string name="title_activity_maps">Karte</string>
+    <string name="title_activity_settings">Einstellungen</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">WebView-Einstellungen</string>
+
+    <string name="pref_title_cache">Cache aktivieren</string>
+    <string name="pref_title_javascript">Aktivieren Sie Javascript</string>
+    <string name="pref_title_geolocation">GPS-Koordinaten aktualisieren</string>
+    <string name="pref_title_gps_remoember">GPS-Check-Dialog</string>
+
+    <string name="pref_title_webview_loader">Loader option</string>
+    <string-array name="pref_webview_loader_titles">
+        <item>Pull-to-Refresh</item>
+        <item>Fortschrittsdialog</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="pref_webview_loader_values">
+        <item>ziehen</item>
+        <item>dialog</item>
+        <item>Nie</item>
+    </string-array>
+
+    <!-- GPS -->
+    <string name="gps_dialog_title">Geo-basierter Push (optional)</string>
+    <string name="gps_dialog_message">Möchten Sie Geo Push Benachrichtigungen erhalten?</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Benachrichtigungen</string>
+
+    <string name="pref_header_geolocation">Geolokalisierung</string>
+
+    <string name="pref_title_new_message_notifications">Neue Meldungsbenachrichtigungen</string>
+
+    <string name="pref_title_ringtone">Klingelton</string>
+    <string name="pref_ringtone_silent">Leise</string>
+
+    <string name="pref_title_vibrate">Vibrieren</string>
+
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="interstitial_ad_sample">Interstitielle Anzeigenmuster</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

@@ -1,0 +1,115 @@
+<resources>
+
+    <string name="app_name">HumHub</string>
+    <string name="app_payoff">Community</string>
+
+
+    <!-- Share text and link for Share Button -->
+    <string name="share_text">Hello, look what a beautiful app that I found here: </string>
+    <string name="share_link">https://www.humhub.org</string>
+
+
+
+    <!-- ######################################### Page Configs ################################## -->
+
+    <!-- Type: "url" for web remote pages, "file" for local pages -->
+
+    <string name="home_label">Home</string>
+    <string name="home_type">url</string>
+    <string name="home_url">https://community.humhub.com/dashboard</string>
+
+    <string name="people_label">Gente</string>
+    <string name="people_type">url</string>
+    <string name="people_url">https://community.humhub.com/directory/members</string>
+
+    <string name="messages_label">Mensajes</string>
+    <string name="messages_type">url</string>
+    <string name="messages_url">https://community.humhub.com/mail/mail/index</string>
+
+    <string name="faq_label">Faq</string>
+    <string name="faq_type">url</string>
+    <string name="faq_url">https://community.humhub.com/p/1</string>
+
+    <string name="documentation_label">Documentación</string>
+    <string name="documentation_type">url</string>
+    <string name="documentation_url">https://community.humhub.com/p/2</string>
+
+    <string name="second_category">Opciones</string>
+    <string name="settings_label">Ajustes</string>
+
+    <string name="logout_label">Cerrar sesión</string>
+    <string name="logout_type">url</string>
+    <string name="logout_url">https://community.humhub.com/user/auth/logout</string>
+
+    <!-- Search button-->
+    <string name="search_label">Buscar</string>
+    <string name="search_type">url</string>
+    <string name="search_url">https://community.humhub.com/search</string>
+
+    <!-- If you want, you can customize the error page! -->
+    <string name="error_page">error.html</string>
+
+    <!--Home is connect by primary link-->
+    <string name="spaces_label">Espacios</string>
+    <string name="spaces_type">url</string>
+    <string name="spaces_url">https://community.humhub.com/directory/spaces</string>
+
+    <string name="notification_label">Notificación</string>
+    <string name="notification_type">url</string>
+    <string name="notification_url">https://community.humhub.com/notification/overview</string>
+
+
+    <!-- ########################################## STRINGS ######################################  -->
+    <!-- String for translate -->
+    <string name="share">Compartir</string>
+
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="title_activity_settings">Ajustes</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Configuración de WebView</string>
+
+    <string name="pref_title_cache">Habilitar caché</string>
+    <string name="pref_title_javascript">Habilitar Javascript</string>
+    <string name="pref_title_geolocation">Actualizar Coordenadas GPS</string>
+    <string name="pref_title_gps_remoember">Diálogo de comprobación GPS</string>
+
+    <string name="pref_title_webview_loader">Opción del cargador</string>
+    <string-array name="pref_webview_loader_titles">
+        <item>Tire para actualizar</item>
+        <item>Diálogo de progreso</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_webview_loader_values">
+        <item>halar</item>
+        <item>diálogo</item>
+        <item>Nunca</item>
+    </string-array>
+
+    <!-- GPS -->
+    <string name="gps_dialog_title">Empuje basado en Geo (opcional)</string>
+    <string name="gps_dialog_message">Quieres recibir notificaciones de Geo Push?</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+
+    <string name="pref_header_geolocation">Geolocalización</string>
+
+    <string name="pref_title_new_message_notifications">Nuevas notificaciones de mensajes</string>
+
+    <string name="pref_title_ringtone">Tono de llamada</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
+
+    <string name="action_settings">Ajustes</string>
+
+    <string name="interstitial_ad_sample">Ejemplo de anuncio intersticial</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

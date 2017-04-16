@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1096550800936",
+    "firebase_url": "https://humhub-e67d8.firebaseio.com",
+    "project_id": "humhub-e67d8",
+    "storage_bucket": "humhub-e67d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096550800936:android:33fc7c65f23f5994",
+        "android_client_info": {
+          "package_name": "com.becode.humhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096550800936-tcq1c8rmofacgic35uu5d44srln04fqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.becode.humhub",
+            "certificate_hash": "94a88d9fbc417135dcb4f540e354ee0b8d9373cc"
+          }
+        },
+        {
+          "client_id": "1096550800936-goh91l4mejssi2k4kovr8bg86tpg0efg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jsX5NpV1J7aU979cSwNpAwYw6GRsQB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096550800936-goh91l4mejssi2k4kovr8bg86tpg0efg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

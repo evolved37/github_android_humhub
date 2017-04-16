@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bottom-bar-2.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/9b215c84e4f77d6e621659babbf52008167fb664/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9b215c84e4f77d6e621659babbf52008167fb664/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.roughike/bottom-bar/2.1.1/1ecd4fc7b14de41c702bad2a55175c1b4b835c48/bottom-bar-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
