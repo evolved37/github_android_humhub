@@ -3,10 +3,10 @@ A big thank you to the community humhub
 
 ## Set you app for your hum hub application 
 
-Name of application is define in string.xml | res/values/string
-Change you primary url in: res/values/string (EN - AR - DE - ES - FR) or add new string for you language
-Chane name of link is label of item 
-Automatically change the title in top main bar if set: setTitle(getString(R.string.name_label)); in your new menu item
+Name of application is define in string.xml | res/values/string <br>
+Change you primary url in: res/values/string (EN - AR - DE - ES - FR) or add new string for you language <br>
+Chane name of link is label of item <br>
+Automatically change the title in top main bar if set: setTitle(getString(R.string.name_label)); in your new menu item <br>
 
 ## Icon app 
 Change png file located in mipmap/ic_laucher
@@ -28,13 +28,13 @@ Create new graphic with pshotoshp, modify res/mipmap/your_logo.png
 - Remember set correctly item_position for view correctly selected item on app
 
 ## Bottom bar
-This function is similar to left bar
-to change item change string and xml/bottombar_tabs.xml
+This function is similar to left bar <br>
+to change item change string and xml/bottombar_tabs.xml <br>
 if you add new item add function on MainActivity row 150 to 229 you see two type of function you set reselect function.
 
 ## ADS Google
-Uncommet row 263 to 298 in MainActivity and uncomment in res/layout/content_main.xml 
-Set you Google ADS code to connect your Google ADwords in AndroidMAnifest set Api Key
+Uncommet row 263 to 298 in MainActivity and uncomment in res/layout/content_main.xml <br>
+Set you Google ADS code to connect your Google ADwords in AndroidMAnifest set Api Key <br>
 
 # Additional function 
 
