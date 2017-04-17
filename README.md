@@ -1,5 +1,5 @@
 # Android Humhub
-
+A big thank you to the community humhub
 
 ## Set you app for your hum hub application 
 
@@ -8,7 +8,7 @@ Change you primary url in: res/values/string (EN - AR - DE - ES - FR) or add new
 Chane name of link is label of item 
 Automatically change the title in top main bar if set: setTitle(getString(R.string.name_label)); in your new menu item
 
-# Icon app 
+## Icon app 
 Change png file located in mipmap/ic_laucher
 
 ## Push notification Google FCM
@@ -36,7 +36,9 @@ if you add new item add function on MainActivity row 150 to 229 you see two type
 Uncommet row 263 to 298 in MainActivity and uncomment in res/layout/content_main.xml 
 Set you Google ADS code to connect your Google ADwords in AndroidMAnifest set Api Key
 
+# Additional function 
 
-
-
-
+## menù left right
+you set if the burger menu show top left or top right got to: res/values/string.xml and chenge value rtl_version to true
+## floating button
+Enable floating button uncomment row 136 to 148 in ManActivity and uncomment res/app_bar_main.xml row 47 to 57 to enable view
