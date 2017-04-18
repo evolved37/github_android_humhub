@@ -30,7 +30,8 @@ Create new graphic with pshotoshp, modify res/mipmap/your_logo.png
 ## Bottom bar
 This function is similar to left bar <br>
 to change item change string and xml/bottombar_tabs.xml <br>
-if you add new item add function on MainActivity row 150 to 229 you see two type of function you set reselect function.
+if you add new item add function on MainActivity row 150 to 229 you see two type of function you set reselect function.<br>
+For more function on this featured see https://github.com/roughike/BottomBar
 
 ## ADS Google
 Uncommet row 263 to 298 in MainActivity and uncomment in res/layout/content_main.xml <br>
