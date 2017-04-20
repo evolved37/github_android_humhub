@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android_hum_hub.iml" filepath="$PROJECT_DIR$/android_hum_hub.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github_android_humhub.iml" filepath="$PROJECT_DIR$/github_android_humhub.iml" />
     </modules>
   </component>
 </project>

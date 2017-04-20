@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.becode.humhub.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="com.becode.humhub"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.becode.humhub"/>
+</manifest>

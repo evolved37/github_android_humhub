@@ -41,7 +41,7 @@
     <!-- ######################################### Page Configs ################################## -->
 
     <!-- Type: "url" for web remote pages, "file" for local pages -->
-    <string name="home_label">Home</string>
+    <string name="home_label">Dashboard</string>
     <string name="home_type">url</string>
     <string name="home_url">https://community.humhub.com/dashboard</string>
 

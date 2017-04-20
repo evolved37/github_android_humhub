@@ -1,0 +1,7 @@
+#Thu Apr 20 15:36:03 CEST 2017
+base.0=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2da2683a53af7079244b719f59ef674aa3887f6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8f76819e886ddf74d83087e65b41a9e4ab915a5/classes.dex
+base.1=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8f76819e886ddf74d83087e65b41a9e4ab915a5
+file.0=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2da2683a53af7079244b719f59ef674aa3887f6/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/layout-v21/notification_action.xml"
+    }
+]

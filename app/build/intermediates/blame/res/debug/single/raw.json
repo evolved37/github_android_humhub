@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/francescotonon/.android/build-cache/5d70b8736a4b10efa3b5eca3fc8116340a3ac932/output/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/raw/demo.mp3",
+        "source": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/raw/demo.mp3"
+    }
+]

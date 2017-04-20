@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/francescotonon/.android/build-cache/3717aeb072944c2889e53d961711a4b6c90ebb21/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/color-v23/abc_tint_default.xml"
+    }
+]

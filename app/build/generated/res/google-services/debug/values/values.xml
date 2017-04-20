@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1096550800936-goh91l4mejssi2k4kovr8bg86tpg0efg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://humhub-e67d8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1096550800936</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3jsX5NpV1J7aU979cSwNpAwYw6GRsQB8</string>
+    <string name="google_app_id" translatable="false">1:1096550800936:android:33fc7c65f23f5994</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3jsX5NpV1J7aU979cSwNpAwYw6GRsQB8</string>
+    <string name="google_storage_bucket" translatable="false">humhub-e67d8.appspot.com</string>
+</resources>

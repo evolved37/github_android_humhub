@@ -14,15 +14,15 @@
 
     <!-- Type: "url" for web remote pages, "file" for local pages -->
 
-    <string name="home_label">Zuhause</string>
+    <string name="home_label">Übersicht</string>
     <string name="home_type">url</string>
     <string name="home_url">https://community.humhub.com/dashboard</string>
 
-    <string name="people_label">Menschen</string>
+    <string name="people_label">Mitglieder</string>
     <string name="people_type">url</string>
     <string name="people_url">https://community.humhub.com/directory/members</string>
 
-    <string name="messages_label">Meldungen</string>
+    <string name="messages_label">Nachrichten</string>
     <string name="messages_type">url</string>
     <string name="messages_url">https://community.humhub.com/mail/mail/index</string>
 

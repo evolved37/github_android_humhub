@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_webview_loader_titles">
+        <item>Tirer pour rafraîchir</item>
+        <item>Dialogue de progression</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="pref_webview_loader_values">
+        <item>tirer</item>
+        <item>dialogue</item>
+        <item>Jamais</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string msgid="5835639618285370804" name="accept">"Accepter"</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_name">HumHub</string>
+    <string name="app_payoff">Community</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Créer un événement d\'agenda"</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informations sur l\'annonce"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Creative Preview"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Sélectionner un mode débogage"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Dépannage"</string>
+    <string msgid="6099173376375995052" name="decline">"Refuser"</string>
+    <string name="documentation_label">Documentation</string>
+    <string name="documentation_type">url</string>
+    <string name="documentation_url">https://community.humhub.com/p/2</string>
+    <string name="error_page">error.html</string>
+    <string name="faq_label">Faq</string>
+    <string name="faq_type">url</string>
+    <string name="faq_url">https://community.humhub.com/p/1</string>
+    <string name="gps_dialog_message">Voulez-vous recevoir les notifications Geo Push?</string>
+    <string name="gps_dialog_title">Push géo-basé (optionnel)</string>
+    <string name="home_label">Accueil</string>
+    <string name="home_type">url</string>
+    <string name="home_url">https://community.humhub.com/dashboard</string>
+    <string name="interstitial_ad_sample">Exemple d\'annonce interstitielle</string>
+    <string name="logout_label">Connectez - Out</string>
+    <string name="logout_type">url</string>
+    <string name="logout_url">https://community.humhub.com/user/auth/logout</string>
+    <string name="messages_label">Messages</string>
+    <string name="messages_type">url</string>
+    <string name="messages_url">https://community.humhub.com/mail/mail/index</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="notification_label">Notification</string>
+    <string name="notification_type">url</string>
+    <string name="notification_url">https://community.humhub.com/notification/overview</string>
+    <string name="people_label">Gens</string>
+    <string name="people_type">url</string>
+    <string name="people_url">https://community.humhub.com/directory/members</string>
+    <string name="pref_header_general">Paramètres WebView</string>
+    <string name="pref_header_geolocation">Géolocalisation</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_ringtone_silent">silencieux</string>
+    <string name="pref_title_cache">Activer le cache</string>
+    <string name="pref_title_geolocation">Mettre à jour les coordonnées GPS</string>
+    <string name="pref_title_gps_remoember">Boîte de dialogue de vérification GPS</string>
+    <string name="pref_title_javascript">Activer Javascript</string>
+    <string name="pref_title_new_message_notifications">Nouvelles notifications de messages</string>
+    <string name="pref_title_ringtone">sonnerie</string>
+    <string name="pref_title_vibrate">Vibrer</string>
+    <string name="pref_title_webview_loader">Option chargeur</string>
+    <string name="search_label">Chercher</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="search_type">url</string>
+    <string name="search_url">https://community.humhub.com/search</string>
+    <string name="second_category">Options</string>
+    <string name="settings_label">Paramètres</string>
+    <string name="share">Partager</string>
+    <string name="share_link">https://www.humhub.org</string>
+    <string name="share_text">Hello, look what a beautiful app that I found here: </string>
+    <string name="spaces_label">Les espaces</string>
+    <string name="spaces_type">url</string>
+    <string name="spaces_url">https://community.humhub.com/directory/spaces</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Enregistrer l\'image"</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="title_activity_settings">Paramètres</string>
+</resources>

@@ -1,0 +1,2025 @@
+[
+    {
+        "outputFile": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3374,
+                        "endLine": 85,
+                        "endColumn": 19,
+                        "endOffset": 3552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3557,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 116,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 116,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 107,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 107,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 122,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 122,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endColumn": 112,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 112,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 107,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 107,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 84,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 84,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 100,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 100,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 127,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 127,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 75,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 75,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endColumn": 75,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 75,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endColumn": 81,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 81,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 106,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 106,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 99,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 99,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 98,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 98,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1867,
+                    "endColumn": 107,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 107,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 106,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 106,
+                        "endOffset": 1688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 106,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 106,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2189,
+                    "endColumn": 121,
+                    "endOffset": 2306
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 121,
+                        "endOffset": 1917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2311,
+                    "endColumn": 99,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endColumn": 99,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endColumn": 72,
+                    "endOffset": 2479
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 68,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2484,
+                    "endColumn": 51,
+                    "endOffset": 2531
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4365,
+                        "endColumn": 51,
+                        "endOffset": 4412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2536,
+                    "endColumn": 43,
+                    "endOffset": 2575
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2580,
+                    "endColumn": 48,
+                    "endOffset": 2624
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 48,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2629,
+                    "endColumn": 109,
+                    "endOffset": 2734
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 105,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2739,
+                    "endColumn": 194,
+                    "endOffset": 2929
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 389,
+                        "endColumn": 194,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2934,
+                    "endColumn": 132,
+                    "endOffset": 3062
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 584,
+                        "endColumn": 128,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3067,
+                    "endColumn": 109,
+                    "endOffset": 3172
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 713,
+                        "endColumn": 105,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3177,
+                    "endColumn": 219,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 819,
+                        "endColumn": 219,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 134,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1039,
+                        "endColumn": 130,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endColumn": 138,
+                    "endOffset": 3666
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1170,
+                        "endColumn": 134,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3671,
+                    "endColumn": 218,
+                    "endOffset": 3885
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/23010331ba0a1d6120fe4853454aad99c1db406d/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 218,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3890,
+                    "endColumn": 250,
+                    "endOffset": 4136
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1305,
+                        "endColumn": 250,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4141,
+                    "endColumn": 110,
+                    "endOffset": 4247
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1556,
+                        "endColumn": 106,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4252,
+                    "endColumn": 195,
+                    "endOffset": 4443
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1663,
+                        "endColumn": 195,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4448,
+                    "endColumn": 133,
+                    "endOffset": 4577
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1859,
+                        "endColumn": 129,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4582,
+                    "endColumn": 223,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1989,
+                        "endColumn": 223,
+                        "endOffset": 2212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 186,
+                    "endOffset": 4988
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2213,
+                        "endColumn": 182,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4993,
+                    "endColumn": 96,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2396,
+                        "endColumn": 92,
+                        "endOffset": 2488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 98,
+                    "endOffset": 5184
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2489,
+                        "endColumn": 94,
+                        "endOffset": 2583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5189,
+                    "endColumn": 113,
+                    "endOffset": 5298
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/7aa06f2f3f24f215ac558ca7f4a0dba1a9c9babe/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2584,
+                        "endColumn": 109,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5303,
+                    "endColumn": 136,
+                    "endOffset": 5435
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 306,
+                        "endColumn": 132,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5440,
+                    "endColumn": 106,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 102,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 107,
+                    "endOffset": 5650
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 542,
+                        "endColumn": 103,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5655,
+                    "endColumn": 116,
+                    "endOffset": 5767
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 646,
+                        "endColumn": 112,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5772,
+                    "endColumn": 108,
+                    "endOffset": 5876
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 759,
+                        "endColumn": 104,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5881,
+                    "endColumn": 105,
+                    "endOffset": 5982
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 864,
+                        "endColumn": 101,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5987,
+                    "endColumn": 74,
+                    "endOffset": 6057
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 966,
+                        "endColumn": 70,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6062,
+                    "endColumn": 61,
+                    "endOffset": 6119
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 61,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6124,
+                    "endColumn": 50,
+                    "endOffset": 6170
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 50,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6175,
+                    "endColumn": 78,
+                    "endOffset": 6249
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 78,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6254,
+                    "endColumn": 49,
+                    "endOffset": 6299
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 49,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6304,
+                    "endColumn": 41,
+                    "endOffset": 6341
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 41,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6346,
+                    "endColumn": 40,
+                    "endOffset": 6382
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 40,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6387,
+                    "endColumn": 68,
+                    "endOffset": 6451
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 68,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6456,
+                    "endColumn": 90,
+                    "endOffset": 6542
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3808,
+                        "endColumn": 90,
+                        "endOffset": 3894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6547,
+                    "endColumn": 76,
+                    "endOffset": 6619
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3731,
+                        "endColumn": 76,
+                        "endOffset": 3803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6624,
+                    "endColumn": 46,
+                    "endOffset": 6666
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 46,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6671,
+                    "endColumn": 41,
+                    "endOffset": 6708
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 41,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6713,
+                    "endColumn": 75,
+                    "endOffset": 6784
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 75,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6789,
+                    "endColumn": 82,
+                    "endOffset": 6867
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4418,
+                        "endColumn": 82,
+                        "endOffset": 4496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6872,
+                    "endColumn": 54,
+                    "endOffset": 6922
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 54,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6927,
+                    "endColumn": 43,
+                    "endOffset": 6966
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 43,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6971,
+                    "endColumn": 84,
+                    "endOffset": 7051
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endColumn": 84,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7056,
+                    "endColumn": 51,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 51,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 45,
+                    "endOffset": 7149
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 45,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7154,
+                    "endColumn": 85,
+                    "endOffset": 7235
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 85,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7240,
+                    "endColumn": 81,
+                    "endOffset": 7317
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2658,
+                        "endColumn": 81,
+                        "endOffset": 2735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7322,
+                    "endColumn": 79,
+                    "endOffset": 7397
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2578,
+                        "endColumn": 79,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7402,
+                    "endColumn": 59,
+                    "endOffset": 7457
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2187,
+                        "endColumn": 59,
+                        "endOffset": 2242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7462,
+                    "endColumn": 49,
+                    "endOffset": 7507
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2247,
+                        "endColumn": 49,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 7512,
+                    "endColumn": 95,
+                    "endOffset": 7603
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2297,
+                        "endColumn": 95,
+                        "endOffset": 2388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 7608,
+                    "endColumn": 46,
+                    "endOffset": 7650
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 46,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 7655,
+                    "endColumn": 43,
+                    "endOffset": 7694
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 43,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 7699,
+                    "endColumn": 85,
+                    "endOffset": 7780
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 85,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 7785,
+                    "endColumn": 72,
+                    "endOffset": 7853
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2934,
+                        "endColumn": 72,
+                        "endOffset": 3002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 7858,
+                    "endColumn": 67,
+                    "endOffset": 7921
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4018,
+                        "endColumn": 67,
+                        "endOffset": 4081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 7926,
+                    "endColumn": 68,
+                    "endOffset": 7990
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3948,
+                        "endColumn": 68,
+                        "endOffset": 4012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7995,
+                    "endColumn": 57,
+                    "endOffset": 8048
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4251,
+                        "endColumn": 57,
+                        "endOffset": 4304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8053,
+                    "endColumn": 60,
+                    "endOffset": 8109
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3008,
+                        "endColumn": 60,
+                        "endOffset": 3064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8114,
+                    "endColumn": 77,
+                    "endOffset": 8187
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3140,
+                        "endColumn": 77,
+                        "endOffset": 3213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8192,
+                    "endColumn": 80,
+                    "endOffset": 8268
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3218,
+                        "endColumn": 80,
+                        "endOffset": 3294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8273,
+                    "endColumn": 70,
+                    "endOffset": 8339
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3069,
+                        "endColumn": 70,
+                        "endOffset": 3135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 8344,
+                    "endColumn": 98,
+                    "endOffset": 8438
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4087,
+                        "endColumn": 98,
+                        "endOffset": 4181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 8443,
+                    "endColumn": 63,
+                    "endOffset": 8502
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4187,
+                        "endColumn": 63,
+                        "endOffset": 4246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 8507,
+                    "endColumn": 53,
+                    "endOffset": 8556
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4310,
+                        "endColumn": 53,
+                        "endOffset": 4359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8561,
+                    "endColumn": 73,
+                    "endOffset": 8630
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3300,
+                        "endColumn": 73,
+                        "endOffset": 3369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8635,
+                    "endColumn": 47,
+                    "endOffset": 8678
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1685,
+                        "endColumn": 47,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8683,
+                    "endColumn": 81,
+                    "endOffset": 8760
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 81,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8765,
+                    "endColumn": 43,
+                    "endOffset": 8804
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 43,
+                        "endOffset": 1772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8809,
+                    "endColumn": 74,
+                    "endOffset": 8879
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endColumn": 74,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8884,
+                    "endColumn": 52,
+                    "endOffset": 8932
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 52,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8937,
+                    "endColumn": 50,
+                    "endOffset": 8983
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endColumn": 50,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8988,
+                    "endColumn": 43,
+                    "endOffset": 9027
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 43,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9032,
+                    "endColumn": 61,
+                    "endOffset": 9089
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 61,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9094,
+                    "endColumn": 91,
+                    "endOffset": 9181
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 91,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9186,
+                    "endColumn": 49,
+                    "endOffset": 9231
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2007,
+                        "endColumn": 49,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9236,
+                    "endColumn": 43,
+                    "endOffset": 9275
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2057,
+                        "endColumn": 43,
+                        "endOffset": 2096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9280,
+                    "endColumn": 84,
+                    "endOffset": 9360
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2101,
+                        "endColumn": 84,
+                        "endOffset": 2181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9365,
+                    "endColumn": 100,
+                    "endOffset": 9461
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 100,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9466,
+                    "endColumn": 149,
+                    "endOffset": 9611
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1037,
+                        "endColumn": 145,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9616,
+                    "endColumn": 92,
+                    "endOffset": 9704
+                },
+                "from": {
+                    "file": "/Users/francescotonon/.android/build-cache/9da924245d7fa62ab797b0951cb0a7befbb97738/output/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1183,
+                        "endColumn": 88,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9709,
+                    "endColumn": 62,
+                    "endOffset": 9767
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4501,
+                        "endColumn": 62,
+                        "endOffset": 4559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9772,
+                    "endColumn": 52,
+                    "endOffset": 9820
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2740,
+                        "endColumn": 52,
+                        "endOffset": 2788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9825,
+                    "endColumn": 59,
+                    "endOffset": 9880
+                },
+                "from": {
+                    "file": "/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/res/values-es/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2793,
+                        "endColumn": 59,
+                        "endOffset": 2848
+                    }
+                }
+            }
+        ]
+    }
+]
