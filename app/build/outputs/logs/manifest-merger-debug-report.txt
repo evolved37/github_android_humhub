@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:2:1-120:12
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:2:1-123:12
 	package
 		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml
@@ -60,44 +60,56 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:11:5-80
 	android:name
 		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:14:19-67
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:14:5-79
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:14:22-76
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:15:5-81
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:15:22-78
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:18:22-78
 permission#com.becode.humhub.permission.C2D_MESSAGE
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:22:5-24:47
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:25:5-27:47
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/francescotonon/.android/build-cache/097ae1fb44de39881864cee51ec8be8266430823/output/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:24:9-44
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:27:9-44
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:23:9-64
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:26:9-64
 uses-permission#com.digitalborder.webappessentials.permission.C2D_MESSAGE
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:26:5-97
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:29:5-97
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:26:22-94
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:29:22-94
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:29:5-82
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:32:5-82
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/francescotonon/.android/build-cache/097ae1fb44de39881864cee51ec8be8266430823/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:29:22-79
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:32:22-79
 supports-screens
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:32:5-37:49
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:35:5-40:49
 	android:largeScreens
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:35:9-36
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:38:9-36
 	android:smallScreens
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:33:9-36
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:36:9-36
 	android:normalScreens
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:34:9-37
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:37:9-37
 	android:requiresSmallestWidthDp
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:37:9-46
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:40:9-46
 	android:xlargeScreens
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:36:9-37
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:39:9-37
 application
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:39:5-118:19
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:42:5-121:19
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/francescotonon/.android/build-cache/4662bf9661d760bf80c8837ff81885cdfd1db3f5/output/AndroidManifest.xml:19:5-29:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/francescotonon/.android/build-cache/b526f478ec2976c2267dc333ea8fc8e8e5dcd9e9/output/AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/francescotonon/.android/build-cache/42e3b59c76a8570c92e22991d84eaf674709b1b3/output/AndroidManifest.xml:18:5-19
@@ -113,147 +125,147 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/francescotonon/.andr
 MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/francescotonon/.android/build-cache/ad53b829c9bc1c513423cce007686dbdd399aca2/output/AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/francescotonon/.android/build-cache/6dd3838f4af84136aee70f3daba4b11cba382a99/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/francescotonon/.android/build-cache/23010331ba0a1d6120fe4853454aad99c1db406d/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:design:25.1.0] /Users/francescotonon/.android/build-cache/3717aeb072944c2889e53d961711a4b6c90ebb21/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/francescotonon/.android/build-cache/fc025c8dc57879349206739b0fbd3dc6a4d15ee8/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/francescotonon/.android/build-cache/62278af3a8523af044d571f572147387758033b2/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] /Users/francescotonon/.android/build-cache/9e601d1ae57b020450ffc1ec90af5d7303bae68e/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /Users/francescotonon/.android/build-cache/4a7bc08b50ed1bc31300fdd385dd0447aa0404ce/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /Users/francescotonon/.android/build-cache/a4b79dd90cd2875129fc0eaa6819ebef27101912/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /Users/francescotonon/.android/build-cache/d5f6a30aebabe3466b188daef57b2c5fc61eeaf2/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /Users/francescotonon/.android/build-cache/e1dc59b4cfb09df55ce6e05c02cd7afac43c0dcd/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /Users/francescotonon/.android/build-cache/359229b40b80064c985756f967bff0499840f2a1/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /Users/francescotonon/.android/build-cache/60ae9c4d448a496005797340aff7921ff402a6e5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/francescotonon/.android/build-cache/1b539d4d95e16780d3f4e06ac7b88841fabf48a8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/7ae7bd48d6473d2a675bf34b7891cf31410b327e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/54f2e922220d85faf4f6f856e1a5fd8af3a562af/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/francescotonon/.android/build-cache/15e38c55aba46b7ae44e2ed8e5e16eaeccf3b4fe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/francescotonon/.android/build-cache/b268005ae44731d36065008a795796cf8cfebfde/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/francescotonon/.android/build-cache/062e1e564294889c0f5137be06a4f97c48267b58/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/francescotonon/.android/build-cache/88f06e57a72832d382cd086721890ea290406fd3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/francescotonon/.android/build-cache/5a52da6ef7041dd15f2d5f242928baeb16e2a27c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/francescotonon/.android/build-cache/49b9ee73a2ab355dd11d334ff1865cabb5ba833f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/francescotonon/.android/build-cache/4cf340316e69239e11ebb9c4f680d05386675f17/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:42:9-41
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:45:9-41
 	android:supportsRtl
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:43:9-36
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:46:9-36
 	android:hardwareAccelerated
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:45:9-43
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:48:9-43
 	android:allowBackup
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:40:9-35
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:43:9-35
 	android:icon
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:41:9-43
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:44:9-43
 	android:theme
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:44:9-40
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:47:9-40
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:46:9-68
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:49:9-68
 activity#com.becode.humhub.SplashActivity
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:48:9-66:20
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:51:9-69:20
 	android:label
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:50:13-45
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:53:13-45
 	android:theme
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:51:13-56
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:54:13-56
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:49:13-60
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:52:13-60
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:52:13-55:29
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:55:13-58:29
 action#android.intent.action.MAIN
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:53:17-69
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:53:25-66
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:56:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:54:17-77
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:57:17-77
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:54:27-74
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:57:27-74
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:56:13-65:29
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:59:13-68:29
 action#android.intent.action.VIEW
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:57:17-69
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:60:17-69
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:57:25-66
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:60:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:59:17-76
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:62:17-76
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:59:27-73
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:62:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:60:17-78
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:63:17-78
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:60:27-75
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:63:27-75
 data
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:62:17-64:59
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:65:17-67:59
 	android:host
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:64:21-56
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:67:21-56
 	android:scheme
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:63:21-43
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:66:21-43
 activity#com.becode.humhub.MainActivity
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:67:9-76:20
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:70:9-79:20
 	android:screenOrientation
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:70:13-49
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:73:13-49
 	android:label
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:69:13-45
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:72:13-45
 	android:theme
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:71:13-56
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:74:13-56
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:68:13-58
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:71:13-58
 intent-filter#OPEN_MAIN_1+android.intent.category.DEFAULT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:72:13-75:29
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:75:13-78:29
 action#OPEN_MAIN_1
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:73:17-54
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:76:17-54
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:73:25-51
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:76:25-51
 activity#com.becode.humhub.SettingsActivity
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:77:9-84:20
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:80:9-87:20
 	android:label
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:79:13-60
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:82:13-60
 	android:parentActivityName
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:80:13-72
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:83:13-72
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:78:13-62
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:81:13-62
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:81:13-83:66
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:84:13-86:66
 	android:value
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:83:17-63
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:86:17-63
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:82:17-63
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:85:17-63
 activity#com.google.android.gms.ads.AdActivity
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:86:9-89:64
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:89:9-92:64
 MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/francescotonon/.android/build-cache/b526f478ec2976c2267dc333ea8fc8e8e5dcd9e9/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:88:13-122
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:91:13-122
 	android:theme
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:89:13-61
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:92:13-61
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:87:13-65
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:90:13-65
 service#com.becode.humhub.FCM.MyFirebaseMessagingService
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:95:9-99:19
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:98:9-102:19
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:95:18-81
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:98:18-81
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:96:13-98:29
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:99:13-101:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:97:17-78
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:100:17-78
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:97:25-75
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:100:25-75
 service#com.becode.humhub.FCM.MyFirebaseInstanceIDService
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:101:9-105:19
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:104:9-108:19
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:101:18-82
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:104:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:102:13-104:29
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:105:13-107:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:103:17-80
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:106:17-80
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:103:25-77
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:106:25-77
 meta-data#com.google.android.gms.version
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:107:9-109:69
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:110:9-112:69
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/francescotonon/.android/build-cache/23010331ba0a1d6120fe4853454aad99c1db406d/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:109:13-66
-	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:108:13-58
-meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:110:9-112:48
-	android:value
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:112:13-45
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:112:13-66
 	android:name
 		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:111:13-58
-meta-data#com.samsung.android.sdk.multiwindow.enable
-ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:113:9-115:36
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:113:9-115:48
 	android:value
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:115:13-33
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:115:13-45
 	android:name
-		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:114:13-70
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:114:13-58
+meta-data#com.samsung.android.sdk.multiwindow.enable
+ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:116:9-118:36
+	android:value
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:118:13-33
+	android:name
+		ADDED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml:117:13-70
 uses-sdk
 INJECTED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/francescotonon/.android/build-cache/4662bf9661d760bf80c8837ff81885cdfd1db3f5/output/AndroidManifest.xml:17:5-42
@@ -272,22 +284,22 @@ MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/francescotonon/.andr
 MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/francescotonon/.android/build-cache/ad53b829c9bc1c513423cce007686dbdd399aca2/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/francescotonon/.android/build-cache/6dd3838f4af84136aee70f3daba4b11cba382a99/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/francescotonon/.android/build-cache/23010331ba0a1d6120fe4853454aad99c1db406d/output/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:multidex:1.0.1] /Users/francescotonon/.android/build-cache/c072dda84f2c6f5bad83cb85c6b35d63b6fac68b/output/AndroidManifest.xml:18:5-42
-MERGED from [com.roughike:bottom-bar:2.1.1] /Users/francescotonon/.android/build-cache/7255a87951cf47851510ae71f1ee87ee949aa5c1/output/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:design:25.1.0] /Users/francescotonon/.android/build-cache/3717aeb072944c2889e53d961711a4b6c90ebb21/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/francescotonon/.android/build-cache/b7d184ae40da8192ccb635bad45d560c7dd2b3d7/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/francescotonon/.android/build-cache/fc025c8dc57879349206739b0fbd3dc6a4d15ee8/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/francescotonon/.android/build-cache/62278af3a8523af044d571f572147387758033b2/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/francescotonon/.android/build-cache/3a7eb01a98f739e53e436aa39818b1eee32b8bdb/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.0] /Users/francescotonon/.android/build-cache/9e601d1ae57b020450ffc1ec90af5d7303bae68e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.0] /Users/francescotonon/.android/build-cache/4a7bc08b50ed1bc31300fdd385dd0447aa0404ce/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /Users/francescotonon/.android/build-cache/a4b79dd90cd2875129fc0eaa6819ebef27101912/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /Users/francescotonon/.android/build-cache/d5f6a30aebabe3466b188daef57b2c5fc61eeaf2/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /Users/francescotonon/.android/build-cache/e1dc59b4cfb09df55ce6e05c02cd7afac43c0dcd/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /Users/francescotonon/.android/build-cache/359229b40b80064c985756f967bff0499840f2a1/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] /Users/francescotonon/.android/build-cache/60ae9c4d448a496005797340aff7921ff402a6e5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /Users/francescotonon/.android/build-cache/9ace6ff9884f3b777fe97920dd49647930626d93/output/AndroidManifest.xml:18:5-42
+MERGED from [com.roughike:bottom-bar:2.3.1] /Users/francescotonon/.android/build-cache/27bb6e4c710535421a792fe862253695286f1a32/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/francescotonon/.android/build-cache/1b539d4d95e16780d3f4e06ac7b88841fabf48a8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/7ae7bd48d6473d2a675bf34b7891cf31410b327e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/54f2e922220d85faf4f6f856e1a5fd8af3a562af/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/francescotonon/.android/build-cache/70e5b657a4cb6de6c4581407c23f05c84111104f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /Users/francescotonon/.android/build-cache/15e38c55aba46b7ae44e2ed8e5e16eaeccf3b4fe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/francescotonon/.android/build-cache/b268005ae44731d36065008a795796cf8cfebfde/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/francescotonon/.android/build-cache/062e1e564294889c0f5137be06a4f97c48267b58/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/francescotonon/.android/build-cache/88f06e57a72832d382cd086721890ea290406fd3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/francescotonon/.android/build-cache/5a52da6ef7041dd15f2d5f242928baeb16e2a27c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/francescotonon/.android/build-cache/49b9ee73a2ab355dd11d334ff1865cabb5ba833f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /Users/francescotonon/.android/build-cache/4cf340316e69239e11ebb9c4f680d05386675f17/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] /Users/francescotonon/.android/build-cache/3717aeb072944c2889e53d961711a4b6c90ebb21/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/src/main/AndroidManifest.xml
@@ -400,3 +412,20 @@ ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/francescotonon/.an
 		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/francescotonon/.android/build-cache/ad53b829c9bc1c513423cce007686dbdd399aca2/output/AndroidManifest.xml:6:150-173
 	android:name
 		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/francescotonon/.android/build-cache/ad53b829c9bc1c513423cce007686dbdd399aca2/output/AndroidManifest.xml:6:79-124
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/francescotonon/.android/build-cache/1b539d4d95e16780d3f4e06ac7b88841fabf48a8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/7ae7bd48d6473d2a675bf34b7891cf31410b327e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/francescotonon/.android/build-cache/54f2e922220d85faf4f6f856e1a5fd8af3a562af/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/francescotonon/.android/build-cache/70e5b657a4cb6de6c4581407c23f05c84111104f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/francescotonon/.android/build-cache/15e38c55aba46b7ae44e2ed8e5e16eaeccf3b4fe/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/francescotonon/.android/build-cache/b268005ae44731d36065008a795796cf8cfebfde/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/francescotonon/.android/build-cache/062e1e564294889c0f5137be06a4f97c48267b58/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/francescotonon/.android/build-cache/88f06e57a72832d382cd086721890ea290406fd3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/francescotonon/.android/build-cache/5a52da6ef7041dd15f2d5f242928baeb16e2a27c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/francescotonon/.android/build-cache/49b9ee73a2ab355dd11d334ff1865cabb5ba833f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/francescotonon/.android/build-cache/4cf340316e69239e11ebb9c4f680d05386675f17/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /Users/francescotonon/.android/build-cache/1805c6f943f5ea9fada3ee7de470c60776c71291/output/AndroidManifest.xml:26:9-47

@@ -24,13 +24,17 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.webkit.JavascriptInterface;
+import android.webkit.WebView;
 import android.widget.Toast;
 
 import com.google.android.gms.ads.InterstitialAd;
 
 import com.roughike.bottombar.BottomBar;
+import com.roughike.bottombar.BottomBarTab;
 import com.roughike.bottombar.OnTabReselectListener;
 import com.roughike.bottombar.OnTabSelectListener;
+import com.roughike.bottombar.TabSelectionInterceptor;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
@@ -39,7 +43,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
+import static android.R.attr.id;
+import static android.R.attr.value;
 import static com.becode.humhub.R.id.tab_home;
+import static com.becode.humhub.R.id.webView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -146,8 +153,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
         */
+
+
         // New bottom BAR tabs
         BottomBar bottomBar = (BottomBar) findViewById(R.id.bottomBar);
+        final BottomBarTab nearby = bottomBar.getTabWithId(R.id.tab_notification);
+        // #badge-notifications
+        // set notification base webview call the value base javascript call 
+        nearby.setBadgeCount(1);
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
             public void onTabSelected(@IdRes int tabId ) {
@@ -176,10 +189,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     Bundle bar_notify = new Bundle();
                     bar_notify.putString("type", getString(R.string.notification_type));
                     bar_notify.putString("url", getString(R.string.notification_url));
+                    nearby.removeBadge();
                     Fragment bar_notification = new FragmentWebInteractive();
                     bar_notification.setArguments(bar_notify);
                     FragmentManager bar_notificationFragment = getSupportFragmentManager();
                     bar_notificationFragment.beginTransaction().replace(R.id.frame_container, bar_notification, "FragmentWebInteractive").commit();
+
                     setTitle(getString(R.string.notification_label));
                     first_fragment = true;
 
@@ -402,7 +417,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         Fragment fragment = null;
         String tag = null;
         first_fragment = false;
-
         if (id == R.id.people) {
             Bundle bundle = new Bundle();
             bundle.putInt("item_position", 0);
@@ -420,7 +434,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new FragmentWebInteractive();
             fragment.setArguments(bundle);
             tag = "FragmentWebInteractive";
-
         } else if (id == R.id.documentation) {
             Bundle bundle = new Bundle();
             bundle.putInt("item_position", 2);
@@ -431,7 +444,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment.setArguments(bundle);
             tag = "FragmentWebInteractive";
         } else if (id == R.id.faq) {
-
             Bundle bundle = new Bundle();
             bundle.putInt("item_position", 3);
             bundle.putSerializable("item_id", R.id.faq);
@@ -440,7 +452,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new FragmentWebInteractive();
             fragment.setArguments(bundle);
             tag = "FragmentWebInteractive";
-
         }
 
         // ##################### --------------- EXAMPLE ----------------------- #################
@@ -474,6 +485,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.getMenu().getItem(position).setChecked(true);
     }
+
 
 
     /**

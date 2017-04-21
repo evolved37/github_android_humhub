@@ -170,7 +170,8 @@
             <flag name="shifting" value="1"/>
             <flag name="shy" value="2"/>
             <flag name="underNavbar" value="4"/>
-        </attr><attr format="float" name="bb_inActiveTabAlpha"/><attr format="float" name="bb_activeTabAlpha"/><attr format="color" name="bb_inActiveTabColor"/><attr format="color" name="bb_activeTabColor"/><attr format="color" name="bb_badgeBackgroundColor"/><attr format="reference" name="bb_titleTextAppearance"/><attr format="string" name="bb_titleTypeFace"/><attr format="boolean" name="bb_showShadow"/></declare-styleable>
+            <flag name="iconsOnly" value="8"/>
+        </attr><attr format="boolean" name="bb_longPressHintsEnabled"/><attr format="float" name="bb_inActiveTabAlpha"/><attr format="float" name="bb_activeTabAlpha"/><attr format="color" name="bb_inActiveTabColor"/><attr format="color" name="bb_activeTabColor"/><attr format="color" name="bb_badgeBackgroundColor"/><attr format="boolean" name="bb_badgesHideWhenActive"/><attr format="reference" name="bb_titleTextAppearance"/><attr format="string" name="bb_titleTypeFace"/><attr format="boolean" name="bb_showShadow"/></declare-styleable>
     <declare-styleable name="BottomNavigationView"><attr name="menu"/><attr name="itemIconTint"/><attr name="itemTextColor"/><attr name="itemBackground"/><attr name="elevation"/></declare-styleable>
     <declare-styleable name="BottomSheetBehavior_Layout"><attr format="dimension" name="behavior_peekHeight">
             
@@ -528,6 +529,8 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="bb_default_elevation">8dp</dimen>
+    <dimen name="bb_fake_shadow_height">4dp</dimen>
     <dimen name="bb_height">56dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
@@ -606,6 +609,8 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="bb_bottom_bar_appearance_id" type="id"/>
+    <item name="bb_bottom_bar_color_id" type="id"/>
     <item name="home" type="id"/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -733,10 +738,10 @@
     <string name="notification_type">url</string>
     <string name="notification_url">https://community.humhub.com/notification/overview</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="people_label">People</string>
     <string name="people_type">url</string>
     <string name="people_url">https://community.humhub.com/directory/members</string>
@@ -810,7 +815,6 @@
         <item name="android:textColor">#FFFFFF</item>
     </style>
     <style name="BB_BottomBarItem_Tablet">
-        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
     </style>

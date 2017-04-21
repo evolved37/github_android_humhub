@@ -1,4 +1,4 @@
-#Thu Apr 20 15:03:35 CEST 2017
+#Fri Apr 21 15:29:44 CEST 2017
 base.0=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
 renamed.0=classes.dex
 file.0=/Users/francescotonon/AndroidStudioProjects/github_android_humhub/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

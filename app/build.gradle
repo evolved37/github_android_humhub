@@ -37,7 +37,7 @@ dependencies {
     compile 'com.google.firebase:firebase-core:9.2.0'
     compile 'com.android.support:multidex:1.0.1'
     // new library for bottom bar
-    compile 'com.roughike:bottom-bar:2.1.1'
+    compile 'com.roughike:bottom-bar:2.3.1'
 }
 // enamble for google Firebase console
 apply plugin: 'com.google.gms.google-services'
