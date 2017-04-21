@@ -43,3 +43,8 @@ Set you Google ADS code to connect your Google ADwords in AndroidMAnifest set Ap
 you set if the burger menu show top left or top right got to: res/values/string.xml and chenge value rtl_version to true
 ## floating button
 Enable floating button uncomment row 136 to 148 in ManActivity and uncomment res/app_bar_main.xml row 47 to 57 to enable view
+
+# TO DO
+Badge notification tab get value by webview
+Real time notification
+
