@@ -7,4 +7,5 @@
     <string name="google_app_id" translatable="false">1:1096550800936:android:33fc7c65f23f5994</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3jsX5NpV1J7aU979cSwNpAwYw6GRsQB8</string>
     <string name="google_storage_bucket" translatable="false">humhub-e67d8.appspot.com</string>
+    <string name="project_id" translatable="false">humhub-e67d8</string>
 </resources>
