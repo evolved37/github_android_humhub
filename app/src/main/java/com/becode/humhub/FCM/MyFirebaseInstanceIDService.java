@@ -7,15 +7,15 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.FirebaseInstanceIdService;
+import com.google.firebase.messaging.FirebaseMessagingService;
 
 
-public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
+public class MyFirebaseInstanceIDService extends FirebaseMessagingService {
 
     SharedPreferences preferences;
     private static final String TAG = "MyFirebaseIIDService";
 
-    @Override
+
     public void onTokenRefresh() {
 
         //Getting registration token

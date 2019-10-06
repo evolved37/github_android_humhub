@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Francesco\\Documents\\AndroidStudio\\github_android_humhub\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Francesco\\Documents\\Android-studio-project\\github_android_humhub\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Francesco\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\63f61b14b6f448b7b3c87306457aa37c\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Francesco\\.gradle\\caches\\transforms-2\\files-2.1\\1b076deaa1ca6d812f5b51c1f0b2d934\\appcompat-1.0.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

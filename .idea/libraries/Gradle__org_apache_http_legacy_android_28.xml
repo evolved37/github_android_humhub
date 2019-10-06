@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: org.apache.http.legacy-android-28">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/optional/org.apache.http.legacy.jar!/" />
+      <root url="jar://D:/sdk/Android/platforms/android-28/optional/org.apache.http.legacy.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

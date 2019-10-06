@@ -8,33 +8,30 @@ import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
-import android.support.annotation.IdRes;
-import android.support.design.widget.NavigationView;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.content.ContextCompat;
-import android.support.v4.view.GravityCompat;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import androidx.annotation.IdRes;
+import com.google.android.material.navigation.NavigationView;
+import androidx.core.app.ActivityCompat;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.core.content.ContextCompat;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.appcompat.app.ActionBarDrawerToggle;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.webkit.JavascriptInterface;
-import android.webkit.WebView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.InterstitialAd;
+//import com.google.android.gms.ads.InterstitialAd;
 
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.BottomBarTab;
 import com.roughike.bottombar.OnTabReselectListener;
 import com.roughike.bottombar.OnTabSelectListener;
-import com.roughike.bottombar.TabSelectionInterceptor;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
@@ -43,15 +40,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
-import static android.R.attr.id;
-import static android.R.attr.value;
 import static com.becode.humhub.R.id.tab_home;
-import static com.becode.humhub.R.id.webView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     public boolean doubleBackToExitPressedOnce = false;
-    private InterstitialAd interstitial;
+    //private InterstitialAd interstitial;
     private NavigationView navigationView;
     public Timer AdTimer;
     private boolean open_from_push = false;
@@ -361,12 +355,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     }
 
-    public void displayInterstitial() {
+    /*public void displayInterstitial() {
         // If Ads are loaded, show Interstitial else show nothing.
         if (interstitial.isLoaded()) {
             interstitial.show();
         }
-    }
+    }*/
 
     @Override
     public void onBackPressed() {
